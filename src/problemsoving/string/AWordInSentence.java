@@ -1,6 +1,6 @@
 package problemsoving.string;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class AWordInSentence {
     public String solution(String str){
